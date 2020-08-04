@@ -1,4 +1,4 @@
-module martainUunExtractor
+module github.com/miladcheriki/MartainClaimExtractorModifier
 
 go 1.13
 
